@@ -7,4 +7,4 @@ do
 sum=`expr $sum + $i`
 i=`expr $i + 4`
 done
-echo "Sum of alternate odd numbers upto $n is: $sum" 
+echo "Sum of alternate odd numbers uto $n is: $sum" 
